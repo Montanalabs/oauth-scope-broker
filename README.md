@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `oauth-scope-broker_safe.os` — the correct design.
-- `oauth-scope-broker_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `oauth-scope-broker_safe.wave` — the correct design.
+- `oauth-scope-broker_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
